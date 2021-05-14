@@ -1,0 +1,49 @@
+h1 {
+    font-family: arial;
+    color: #ff009d;
+    background-color: #1d0320;
+}
+
+body {
+    font-family: monospace;
+    color: #2f00ff;
+    background-color: #1d0320;
+}
+
+.list-item {
+    font-family: monospace;
+  }
+  
+  #good-idea {
+    color: #ff002f;
+  }
+  
+  #just-do-that {
+    color: #00ff97;
+  }
+  
+  #come-on {
+    color: #006fff;
+  }
+  
+  #buy-guns {
+    color: #ee00ff;
+  }
+  
+  #a-lie {
+    color: #ffee00;
+  }
+  
+  #tutorial-list {
+    border-style: solid;
+    border-color: white;
+    width: 30%;
+    background-color: black;
+  }
+
+  #sans-image-1 {
+    width: 30%;
+    float: right;
+    border: solid;
+    border-color: #ff002f #00ff97 #ee00ff #006fff;
+  }
